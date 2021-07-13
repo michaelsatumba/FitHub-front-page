@@ -82,7 +82,8 @@ label {
 
 /* forgot password */
 .forgot {
-  margin-top: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .forgotL {
@@ -102,7 +103,10 @@ label {
   background-color: #FFE194;
 }
 
-
+/* continue btn */
+.continueB {
+  margin-top: 20px;
+}
 
 
 /* modal */
@@ -122,5 +126,9 @@ label {
   line-height: 1.5;
   padding: 10px;
   font-size: 13px;
+}
+
+.form-check {
+  padding-top: 25px;
 }
 
